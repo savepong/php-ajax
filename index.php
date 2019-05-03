@@ -21,9 +21,6 @@ $data = [
 </div>
 
 <form id="my-form">
-    <input type="text" id="first-name" name="first-name" placeholder="First Name" />
-    <input type="text" id="last-name" name="last-name" placeholder="Last Name" />
-
     <button type="submit">Submit</button>
 </form>
 
